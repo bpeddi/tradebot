@@ -1,0 +1,4 @@
+tastytrade
+pandas
+requests
+python-dotenv

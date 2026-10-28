@@ -1,0 +1,7 @@
+-r ../requirements.txt
+fastapi
+uvicorn[standard]
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+tzdata

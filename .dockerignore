@@ -1,0 +1,12 @@
+.git
+.venv
+__pycache__
+*.pyc
+.env
+state.json
+trades.db
+uvicorn.out.log
+uvicorn.err.log
+cron.log
+web/frontend/node_modules
+web/frontend/src

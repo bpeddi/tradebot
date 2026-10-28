@@ -1,0 +1,12 @@
+{
+  "symbols": [
+    "NDAQ", "HTFL", "PCTY", "CRWD", "AAPL", "NVDA", "SPY", "QQQ", "ANF", "AFRM", "CORT", "DDOG", "LIFE", "FIVN", "GTLB", "HNGE", "MATX", "NTRA", "OSCR", "PLTR", "SN", "SNOW", "ZETA", "ZS", "MSFT", "GOOG"
+  ],
+  "candle_interval": "4h",
+  "short_window": 9,
+  "long_window": 21,
+  "lookback_days": 100,
+  "max_investment": 10000.0,
+  "max_slots": 5,
+  "rotation_weakness_pct": 1.0
+}
