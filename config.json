@@ -6,7 +6,7 @@
   "short_window": 9,
   "long_window": 21,
   "lookback_days": 100,
-  "max_investment": 10000.0,
-  "max_slots": 5,
+  "max_investment": 24000.0,
+  "max_slots": 8,
   "rotation_weakness_pct": 1.0
 }
